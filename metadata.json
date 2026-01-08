@@ -1,0 +1,5 @@
+{
+  "name": "GN2 Loop Calculator",
+  "description": "A professional engineering simulation tool for calculating pressure drop, velocity, and adequacy of Gaseous Nitrogen (GN2) loop piping systems.",
+  "requestFramePermissions": []
+}
